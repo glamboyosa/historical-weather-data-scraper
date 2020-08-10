@@ -1,6 +1,6 @@
 # Historical Weather Data Web Scraper
 
-This is a web scraper written in Python that scrapes historical weather data from [Time and Date website]("https://timeanddate.com")
+This is a web scraper written in Python that scrapes historical weather data from [Time and Date website](https://timeanddate.com)
 It gets data for every state in Nigeria for every available month from 2011 till December 2019 and stores it in a CSV file.
 I have also taken the liberty to clean the data so you do not have to, you can work with CSV file as is.
 The exact data gotten is:
